@@ -16,7 +16,7 @@ namespace StateCodes
             };
 
 
-            //var state1 = new State("OH","Ohio");
+            //var state1 = new State("OH","Ohio");  // Individual entry format
             //states.Add(state1);
             //var stateky = new State("KY", "Kentucky");
             //states.Add(stateky);
